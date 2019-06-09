@@ -1,0 +1,15 @@
+div{
+    display: flex;
+}
+.conteiner1{
+    background-color: red;
+    order: 2;
+    width: 200px;
+    height: 200px;
+}
+.conteiner2{
+    background-color: royalblue;
+    order: 1;
+    width: 200px;
+    height: 200px;
+}
